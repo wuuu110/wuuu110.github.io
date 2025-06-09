@@ -41,7 +41,6 @@ _Sep. 2016 – Jul. 2020_
 ======
 ★ equal contributions, † corresponding authors
 ## Conference Proceedings
-
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -49,7 +48,14 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">KDD 2025</span> **X. Wu**, D. Wang, C. Wu, et al., “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models.”
+">KDD 2025</span> **X. Wu**, D. Wang, C. Wu, et al., “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models.” [paper](https://arxiv.org/abs/2505.12627) [code](https://github.com/wuuu110/Hercules)
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">KDD 2025</span> W. Song★, **X. Wu★**, B. Yang, et al., “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution.” [paper](https://arxiv.org/abs/2506.01231) [code](https://github.com/wuuu110/UGAS-GC)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -57,8 +63,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">KDD 2025</span> W. Song★, **X. Wu★**, B. Yang, et al., “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution.” 
-- **X. Wu**, J. Huang, X. Fu, et al., “The Novel Characterizing Method of Collective Behavior Pattern in PSO,” in *Proceedings of ACIS/IEEE International Conference on Computer and Information Science*, 2022, pp. 59–72.  
+">ICIS 2022</span> **X. Wu**, J. Huang, X. Fu, et al., “The Novel Characterizing Method of Collective Behavior Pattern in PSO.” [paper](https://link.springer.com/chapter/10.1007/978-3-031-12127-2_4)
 
 ## Journal Articles
 - <span style="
@@ -68,7 +73,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">TEVC</span> **X. Wu**, D. Wang, H. Chen, et al., “Neural architecture search for text classification with limited computing resources using efficient Cartesian genetic programming,” 2024.
+">TEVC</span> **X. Wu**, D. Wang, H. Chen, et al., “Neural architecture search for text classification with limited computing resources using efficient Cartesian genetic programming,” 2024.[paper](https://ieeexplore.ieee.org/abstract/document/10373942/) [code](https://github.com/wuuu110/ECGP)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -76,7 +81,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">SWEVO</span> **X. Wu**, J. Han, D. Wang, et al., “Incorporating Surprisingly Popular Algorithm and Euclidean distance-based adaptive topology into PSO,” 2023.
+">SWEVO</span> **X. Wu**, J. Han, D. Wang, et al., “Incorporating Surprisingly Popular Algorithm and Euclidean distance-based adaptive topology into PSO,” 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2210650222001882) [code](https://github.com/wuuu110/SpadePSO)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -84,7 +89,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">Electronics</span> Z. Cao★, **X. Wu★**, C. Wu, et al., “KeypointNet: An Efficient Deep Learning Model with Multi-View Recognition Capability for Sitting Posture Recognition,” 2025.  
+">Electronics</span> Z. Cao★, **X. Wu★**, C. Wu, et al., “KeypointNet: An Efficient Deep Learning Model with Multi-View Recognition Capability for Sitting Posture Recognition,” 2025. [paper](https://www.mdpi.com/2079-9292/14/4/718) 
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -92,12 +97,12 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">Neural Networks</span> Y. Xiao, D. Wang, **X. Wu†**, et al., “Improving generalization of neural vehicle routing problem solvers through the lens of model architecture,” 2025.  
+">Neural Networks</span> Y. Xiao, D. Wang, **X. Wu†**, et al., “Improving generalization of neural vehicle routing problem solvers through the lens of model architecture,” 2025. [paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X) [code](https://github.com/xybFight/VRP-Generalization)
 
 ## Pre-prints
 
-- **X. Wu**, D. Wang, L. Wen, et al., “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024.  
-- Y. Xiao, D. Wang, **X. Wu†**, et al., “From Global Assessment to Local Selection: Efficiently Solving Traveling Salesman Problems of Varying Sizes,” *arXiv* 2506.00xxx, 2025.
+- **X. Wu**, D. Wang, L. Wen, et al., “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
+- Y. Xiao, D. Wang, **X. Wu†**, et al., “From Global Assessment to Local Selection: Efficiently Solving Traveling Salesman Problems of Varying Sizes,” *arXiv* 2506.00xxx, 2025. [paper]() [code](https://github.com/xybFight/GELD)
 
   
 
