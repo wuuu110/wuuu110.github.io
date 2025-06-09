@@ -73,7 +73,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">TEVC</span> **X. Wu**, D. Wang, H. Chen, et al., “Neural architecture search for text classification with limited computing resources using efficient Cartesian genetic programming,” 2024.[paper](https://ieeexplore.ieee.org/abstract/document/10373942/) [code](https://github.com/wuuu110/ECGP)
+">TEVC</span> **X. Wu**, D. Wang, H. Chen, et al., “Neural architecture search for text classification with limited computing resources using efficient Cartesian genetic programming,” 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10373942/) [code](https://github.com/wuuu110/ECGP)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
