@@ -39,7 +39,7 @@ _Sep. 2016 – Jul. 2020_
 
 📑 Selected Publications
 ======
-★ equal contributions, † corresponding authors
+★ equal contributions, **†** corresponding authors
 ## Conference Proceedings
 - <span style="
   background-color: #e0e0e0;
