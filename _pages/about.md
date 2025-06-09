@@ -65,7 +65,6 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">ICIS 2022</span> **X. Wu**, J. Huang, X. Fu, et al., “The Novel Characterizing Method of Collective Behavior Pattern in PSO.” [paper](https://link.springer.com/chapter/10.1007/978-3-031-12127-2_4)
-
 ## Journal Articles
 - <span style="
   background-color: #e0e0e0;
@@ -99,9 +98,7 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">Neural Networks</span> Y. Xiao, D. Wang, **X. Wu†**, et al., “Improving generalization of neural vehicle routing problem solvers through the lens of model architecture,” 2025. [paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X) [code](https://github.com/xybFight/VRP-Generalization)
-
 ## Pre-prints
-
 - **X. Wu**, D. Wang, L. Wen, et al., “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
 - Y. Xiao, D. Wang, **X. Wu†**, et al., “From Global Assessment to Local Selection: Efficiently Solving Traveling Salesman Problems of Varying Sizes,” *arXiv* 2506.00xxx, 2025. [paper]() [code](https://github.com/xybFight/GELD)
 
