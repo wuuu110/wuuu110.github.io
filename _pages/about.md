@@ -37,7 +37,7 @@ _Sep. 2020 – Jul. 2022_
 **B.Sc. in the College of Computer Science and Technology**  
 _Sep. 2016 – Jul. 2020_  
 
-📚 Selected Publications
+📑 Selected Publications
 ======
 ★ equal contributions, † corresponding authors
 ## Conference Proceedings
@@ -49,6 +49,7 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">KDD 2025</span> **X. Wu**, D. Wang, C. Wu, et al., “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models.” [paper](https://arxiv.org/abs/2505.12627) [code](https://github.com/wuuu110/Hercules)
+- <span style="
   background-color: #e0e0e0;
   color: #333;
   padding: 2px 6px;
@@ -103,8 +104,6 @@ _Sep. 2016 – Jul. 2020_
 
 - **X. Wu**, D. Wang, L. Wen, et al., “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
 - Y. Xiao, D. Wang, **X. Wu†**, et al., “From Global Assessment to Local Selection: Efficiently Solving Traveling Salesman Problems of Varying Sizes,” *arXiv* 2506.00xxx, 2025. [paper]() [code](https://github.com/xybFight/GELD)
-
-  
 
 
 💼 Services
