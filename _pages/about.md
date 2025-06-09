@@ -21,7 +21,7 @@ My research interests lie in the emerging field of Learning to Optimize (L2Opt),
 📚 Education
 ======
 
-### Jilin University, Changchun, China  
+### Jilin University, China  
 **Ph.D. in the College of Computer Science and Technology**  
 _Sep. 2022 – Present_  
 
@@ -29,11 +29,11 @@ _Sep. 2022 – Present_
 **Visiting Ph.D. Student in the College of Computing and Data Science**  
 _Nov. 2023 – Nov. 2024_  
 
-### Jilin University, Changchun, China  
+### Jilin University, China  
 **M.Sc. in the College of Computer Science and Technology**  
 _Sep. 2020 – Jul. 2022_  
 
-### Jilin University, Changchun, China  
+### Jilin University, China  
 **B.Sc. in the College of Computer Science and Technology**  
 _Sep. 2016 – Jul. 2020_  
 
