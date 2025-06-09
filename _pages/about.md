@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am pursuing my Ph.D. degree at the College of Computer Science and Technology, Jilin University (JLU), advised by Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm). Previously, I was a visiting Ph.D. student at Nanyang Technological University (NTU), working with Senior Research Fellow [Di Wang](https://www.diwang.org/), supported by the China Scholarship Council (CSC). I received my B.Sc. from JLU in 2020, advised by Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). You can find my CV here: [Xuan Wu's Curriculum Vitae](../assets/cv.pdf)
+Hi, I am pursuing my Ph.D. degree at the College of Computer Science and Technology, Jilin University (JLU), advised by Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm). Previously, I was a visiting Ph.D. student at Nanyang Technological University (NTU), working with Senior Research Fellow [Di Wang](https://www.diwang.org/), supported by the China Scholarship Council (CSC). I received my B.Sc. from JLU in 2020, advised by Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). 
+
+You can find my CV here: [Xuan Wu's Curriculum Vitae](../assets/CV.pdf)
 
 Research Interests
 ======
