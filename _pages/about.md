@@ -40,7 +40,6 @@ _Sep. 2016 – Jul. 2020_
 📚 Selected Publications
 ======
 ★ equal contributions, † corresponding authors
-
 ## Conference Proceedings
 
 - <span style="
@@ -98,7 +97,7 @@ _Sep. 2016 – Jul. 2020_
 ## Pre-prints
 
 - **X. Wu**, D. Wang, L. Wen, et al., “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024.  
-- Y. Xiao, D. Wang, **X. Wu†**, et al., “From Global Assessment to Local Selection: Efficiently Solving Traveling Salesman Problems of Varying Sizes,” under review.  
+- Y. Xiao, D. Wang, **X. Wu†**, et al., “From Global Assessment to Local Selection: Efficiently Solving Traveling Salesman Problems of Varying Sizes,” *arXiv* 2506.00xxx, 2025.
 
   
 
