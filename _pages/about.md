@@ -43,7 +43,16 @@ _Sep. 2016 – Jul. 2020_
 
 ## Conference Proceedings
 
-- <font style="color: red"> SIGKDD'25 </font>  **X. Wu**, D. Wang, C. Wu, et al., “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models,”
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">
+  NeurIPS 2024
+</span> **X. Wu**, D. Wang, C. Wu, et al., “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models,”
 - W. Song★, **X. Wu★**, B. Yang, et al., “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution,” in *Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2025.  
 - **X. Wu**, J. Huang, X. Fu, et al., “The Novel Characterizing Method of Collective Behavior Pattern in PSO,” in *Proceedings of ACIS/IEEE International Conference on Computer and Information Science*, 2023, pp. 59–72.  
 - Y. Li, Y. Xiao, **X. Wu**, et al., “Leveraging hierarchical similarities for contrastive clustering,” in *Proceedings of the International Conference on Neural Information Processing*, 2023.  
