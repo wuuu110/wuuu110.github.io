@@ -50,19 +50,50 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">
-  NeurIPS 2024
-</span> **X. Wu**, D. Wang, C. Wu, et al., “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models,”
-- W. Song★, **X. Wu★**, B. Yang, et al., “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution,” in *Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2025.  
-- **X. Wu**, J. Huang, X. Fu, et al., “The Novel Characterizing Method of Collective Behavior Pattern in PSO,” in *Proceedings of ACIS/IEEE International Conference on Computer and Information Science*, 2023, pp. 59–72.  
-- Y. Li, Y. Xiao, **X. Wu**, et al., “Leveraging hierarchical similarities for contrastive clustering,” in *Proceedings of the International Conference on Neural Information Processing*, 2023.  
+">KDD 2025</span> **X. Wu**, D. Wang, C. Wu, et al., “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models.”
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">KDD 2025</span> W. Song★, **X. Wu★**, B. Yang, et al., “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution.” 
+- **X. Wu**, J. Huang, X. Fu, et al., “The Novel Characterizing Method of Collective Behavior Pattern in PSO,” in *Proceedings of ACIS/IEEE International Conference on Computer and Information Science*, 2022, pp. 59–72.  
 
 ## Journal Articles
-- **X. Wu**, D. Wang, H. Chen, et al., “Neural architecture search for text classification with limited computing resources using efficient Cartesian genetic programming,” *IEEE Transactions on Evolutionary Computation*, vol. 28, no. 3, pp. 638–652, 2024.  
-- **X. Wu**, J. Han, D. Wang, et al., “Incorporating Surprisingly Popular Algorithm and Euclidean distance-based adaptive topology into PSO,” *Swarm and Evolutionary Computation*, vol. 76, p. 101222, 2023.  
-- Z. Cao★, **X. Wu★**, C. Wu, et al., “KeypointNet: An Efficient Deep Learning Model with Multi-View Recognition Capability for Sitting Posture Recognition,” *Electronics*, vol. 14, p. 4, 2025.  
-- Y. Xiao, D. Wang, **X. Wu†**, et al., “Improving generalization of neural vehicle routing problem solvers through the lens of model architecture,” *Neural Networks*, vol. 187, p. 107380, 2025.  
-- J. Sun, **X. Wu**, Y. Xiao, et al., “DANet: Temporal Action Localization with Double Attention,” *Applied Sciences*, vol. 13, 2023.  
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">TEVC</span> **X. Wu**, D. Wang, H. Chen, et al., “Neural architecture search for text classification with limited computing resources using efficient Cartesian genetic programming,” 2024.
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">SWEVO</span> **X. Wu**, J. Han, D. Wang, et al., “Incorporating Surprisingly Popular Algorithm and Euclidean distance-based adaptive topology into PSO,” 2023.
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">Electronics</span> Z. Cao★, **X. Wu★**, C. Wu, et al., “KeypointNet: An Efficient Deep Learning Model with Multi-View Recognition Capability for Sitting Posture Recognition,” 2025.  
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">Neural Networks</span> Y. Xiao, D. Wang, **X. Wu†**, et al., “Improving generalization of neural vehicle routing problem solvers through the lens of model architecture,” 2025.  
 
 ## Pre-prints
 
