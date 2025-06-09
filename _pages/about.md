@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently pursuing my Ph.D. degree in the College of Computer Science and Technology at Jilin University (JLU), under the supervision of Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm). Previously, I was a visiting Ph.D. student at Nanyang Technological University (NTU), working with Senior Research Fellow [Di Wang](https://www.diwang.org/), with support from the China Scholarship Council (CSC). I received my B.Sc. from JLU in 2020, advised by Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). You can find my selected [publications](https://wuuu110.github.io/publications/) and [CV](../assets/CV.pdf). Please feel free to contact me if you are interested in collaboration!
+Hi, I am currently pursuing my Ph.D. degree in the College of Computer Science and Technology at Jilin University (JLU), under the supervision of Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm). Previously, I was a visiting Ph.D. student at Nanyang Technological University (NTU), working with Senior Research Fellow [Di Wang](https://www.diwang.org/), with support from the China Scholarship Council (CSC). I received my B.Sc. from JLU in 2020, advised by Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). 
+
+
+I have published over ten papers in top-tier conferences and journals, including KDD, AAAI, TNNLS, TEVC, etc. You can find my selected [publications](https://wuuu110.github.io/publications/) and [CV](../assets/CV.pdf). Please feel free to contact me if you are interested in collaboration!
 
 💡 Research Interests
 ======
