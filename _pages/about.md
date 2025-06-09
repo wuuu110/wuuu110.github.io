@@ -16,3 +16,29 @@ I have published over ten papers in top-tier conferences and journals, including
 ======
 
 My research interests lie in the emerging field of Learning to Optimize (L2Opt), with a particular focus on leveraging deep neural networks to solve challenging combinatorial optimization problems (COPs). I am also interested in exploring the automatic design of algorithms with the help of large language models (LLMs).
+
+
+💡 Education
+======
+
+### Jilin University, Changchun, China  
+**Ph.D. in the College of Computer Science and Technology**  
+_Sep. 2022 – Present_  
+- Outstanding Graduate Student of Jilin University  
+- First Prize Graduate Scholarship of Jilin University  
+
+### Nanyang Technological University, Singapore  
+**Visiting Ph.D. Student in the College of Computing and Data Science**  
+_Nov. 2023 – Nov. 2024_  
+- Scholarship of China Scholarship Council (CSC)  
+
+### Jilin University, Changchun, China  
+**M.Sc. in the College of Computer Science and Technology**  
+_Sep. 2020 – Jul. 2022_  
+- Graduate Academic Scholarship  
+
+### Jilin University, Changchun, China  
+**B.Sc. in the College of Computer Science and Technology**  
+_Sep. 2016 – Jul. 2020_  
+- Outstanding Student of Jilin University  
+- Second Prize Scholarship of Jilin University  
