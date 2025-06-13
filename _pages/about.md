@@ -100,7 +100,7 @@ _Sep. 2016 – Jul. 2020_
 ">Neural Networks</span> Y. Xiao, D. Wang, **X. Wu†**, et al., “Improving generalization of neural vehicle routing problem solvers through the lens of model architecture,” 2025. [paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X) [code](https://github.com/xybFight/VRP-Generalization)
 ## Pre-prints
 - **X. Wu**, D. Wang, L. Wen, et al., “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
-- Y. Xiao, D. Wang, **X. Wu†**, et al., “GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales,” *arXiv* 2506.01231, 2025. [paper](https://arxiv.org/pdf/2506.06634) [code](https://github.com/xybFight/GELD)
+- Y. Xiao, D. Wang, **X. Wu†**, et al., “GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales,” *arXiv* 2506.06634, 2025. [paper](https://arxiv.org/pdf/2506.06634) [code](https://github.com/xybFight/GELD)
 
 
 💼 Services
