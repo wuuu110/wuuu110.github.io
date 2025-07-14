@@ -57,14 +57,6 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">KDD 2025</span> W. Song★, **X. Wu★**, B. Yang, Y. Zhou, C. Wu, et al., “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution.” [paper](https://arxiv.org/abs/2506.01231) [code](https://github.com/wuuu110/UGAS-GC)
-- <span style="
-  background-color: #e0e0e0;
-  color: #333;
-  padding: 2px 6px;
-  border-radius: 4px;
-  font-size: 0.9em;
-  font-weight: 600;
-">ICIS 2022</span> **X. Wu**, J. Huang, X. Fu, Y. Zhou, C. Wu, et al., “The Novel Characterizing Method of Collective Behavior Pattern in PSO.” [paper](https://link.springer.com/chapter/10.1007/978-3-031-12127-2_4)
 ## Journal Articles
 - <span style="
   background-color: #e0e0e0;
