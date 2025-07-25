@@ -100,8 +100,8 @@ _Sep. 2016 – Jul. 2020_
 ======
 
 **Conference Reviewer**
-• ICLR’2025
-
+• ICLR’2025 
+• AAAI'2026
 **Journal Reviewer**
 • IEEE TNNLS
 • IEEE TEVC
