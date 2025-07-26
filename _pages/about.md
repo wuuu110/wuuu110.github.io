@@ -91,7 +91,7 @@ _Sep. 2016 – Jul. 2020_
   font-weight: 600;
 ">Neural Networks</span> Y. Xiao, D. Wang, **X. Wu†**, Y. Zhou†, et al., “Improving generalization of neural vehicle routing problem solvers through the lens of model architecture,” 2025. [paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X) [code](https://github.com/xybFight/VRP-Generalization)
 ## Pre-prints
-- **X. Wu**, D. Wang, C. Wu, Y. Xiao, Y. Zhou, et al., “Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem,” *arXiv* 2507., 2025. [paper]()
+- **X. Wu**, D. Wang, C. Wu, Y. Xiao, Y. Zhou, et al., “Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem,”  2025. 
 - **X. Wu**, D. Wang, L. Wen, Y. Xiao, Y. Zhou, et al., “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
 - Y. Xiao, D. Wang, **X. Wu†**, Y. Zhou†, et al., “GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales,” *arXiv* 2506.06634, 2025. [paper](https://arxiv.org/pdf/2506.06634) [code](https://github.com/xybFight/GELD)
 
