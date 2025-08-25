@@ -15,7 +15,7 @@ I have published over ten papers in top-tier conferences and journals, including
 💡 Research Interests
 ======
 
-My research interests lie in the emerging field of Learning to Optimize (L2Opt), with a particular focus on leveraging deep neural networks to solve challenging combinatorial optimization problems (COPs). I am also interested in exploring the automatic design of algorithms with the help of large language models (LLMs).
+My research interests lie in the emerging field of Learning to Optimize (L2Opt), with a particular focus on leveraging deep neural networks to solve challenging Combinatorial Optimization Problems (COPs). I am also interested in exploring the automatic design of algorithms with the help of Large Language Models (LLMs).
 
 
 📚 Education
