@@ -65,7 +65,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">TEVC</span> **X. Wu**, D. Wang, H. Chen, L. Yan, Y. Xiao, C. Miao, H. Ge, D. Xu, Y. Liang, K. Wang, C. Wu, Y. Zhou, “Neural architecture search for text classification with limited computing resources using efficient Cartesian genetic programming,” 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10373942/) [code](https://github.com/wuuu110/ECGP)
+">TEVC</span> **X. Wu**, D. Wang, H. Chen, L. Yan, Y. Xiao, C. Miao, H. Ge, D. Xu, Y. Liang, K. Wang, C. Wu, Y. Zhou, “Neural Architecture Search for Text Classification with Limited Computing Resources using Efficient Cartesian Genetic Programming,” 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10373942/) [code](https://github.com/wuuu110/ECGP)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -73,7 +73,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">SWEVO</span> **X. Wu**, J. Han, D. Wang, P. Gao, Q. Cui, L. Chen, Y. Liang, H. Huang, H. P. Lee, C. Miao, Y. Zhou, C. Wu, “Incorporating Surprisingly Popular Algorithm and Euclidean distance-based adaptive topology into PSO,” 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2210650222001882) [code](https://github.com/wuuu110/SpadePSO)
+">SWEVO</span> **X. Wu**, J. Han, D. Wang, P. Gao, Q. Cui, L. Chen, Y. Liang, H. Huang, H. P. Lee, C. Miao, Y. Zhou, C. Wu, “Incorporating Surprisingly Popular Algorithm and Euclidean Distance-based Adaptive Topology into PSO,” 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2210650222001882) [code](https://github.com/wuuu110/SpadePSO)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
