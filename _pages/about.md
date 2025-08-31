@@ -89,7 +89,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">Neural Networks</span> Y. Xiao, D. Wang, **X. Wu†**, Y. Wu, B. Li, W. Du, L. Wang, Y. Zhou†, “Improving Generalization of Neural Vehicle Routing Problem Solvers Through theLens of Model Architecture,” 2025. [paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X) [code](https://github.com/xybFight/VRP-Generalization)
+">NEUNET</span> Y. Xiao, D. Wang, **X. Wu†**, Y. Wu, B. Li, W. Du, L. Wang, Y. Zhou†, “Improving Generalization of Neural Vehicle Routing Problem Solvers Through theLens of Model Architecture,” 2025. [paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X) [code](https://github.com/xybFight/VRP-Generalization)
 ## Pre-prints
 - **X. Wu**, D. Wang, C. Wu, K. Qi, C. Miao, Y. Xiao, J. Zhang, Y. Zhou, “Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem,” *arXiv* 2507.21386, 2025. [paper](https://arxiv.org/abs/2507.21386)
 - **X. Wu**, D. Wang, L. Wen, Y. Xiao, C. Wu, Y. Wu, C. Yu, D. L. Maskell, Y. Zhou, “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
