@@ -73,7 +73,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">SWEVO</span> **X. Wu**, J. Han, D. Wang, P. Gao, Q. Cui, L. Chen, Y. Liang, H. Huang, H. P. Lee, C. Miao, Y. Zhou, C. Wu, “Incorporating Surprisingly Popular Algorithm and Euclidean Distance-based Adaptive Topology into PSO,” 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2210650222001882) [code](https://github.com/wuuu110/SpadePSO)
+">SWEVO</span> **X. Wu★**, J. Han★, D. Wang, P. Gao, Q. Cui, L. Chen, Y. Liang, H. Huang, H. P. Lee, C. Miao, Y. Zhou, C. Wu, “Incorporating Surprisingly Popular Algorithm and Euclidean Distance-based Adaptive Topology into PSO,” 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2210650222001882) [code](https://github.com/wuuu110/SpadePSO)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
