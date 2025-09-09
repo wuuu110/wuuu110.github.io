@@ -57,6 +57,7 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">KDD 2025</span> W. Song★, **X. Wu★**, B. Yang, Y. Zhou, Y. Liang, H. Ge, H. P. Lee, C. Wu, “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution.” [paper](https://arxiv.org/abs/2506.01231) [code](https://github.com/wuuu110/UGAS-GC)
+
 ## Journal Articles
 - <span style="
   background-color: #e0e0e0;
@@ -101,9 +102,9 @@ _Sep. 2016 – Jul. 2020_
 
 **Conference Reviewer**
 
-• ICLR'(25, 26)  
+• AAAI'26, ICLR'26 
 
-• AAAI'26
+• ICLR'25
 
 **Journal Reviewer**
 
