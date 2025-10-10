@@ -95,7 +95,7 @@ _Sep. 2016 – Jul. 2020_
 - **X. Wu**, D. Wang, C. Wu, K. Qi, C. Miao, Y. Xiao, J. Zhang, Y. Zhou, “Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem,” *arXiv* 2507.21386, 2025. [paper](https://arxiv.org/abs/2507.21386)
 - **X. Wu**, D. Wang, L. Wen, Y. Xiao, C. Wu, Y. Wu, C. Yu, D. L. Maskell, Y. Zhou, “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
 - Y. Xiao, D. Wang, R. Cao, **X. Wu†**, B. Li, Y. Zhou†, “GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales,” *arXiv* 2506.06634, 2025. [paper](https://arxiv.org/pdf/2506.06634) [code](https://github.com/xybFight/GELD)
-- H. Wu, D. Wang, T. Ma, P. Zhao, Y. Xiao, Z. Wu, X.-C. Wang, C. Li, **X. Wu†**, Y. Zhou†, “TCIP: Threshold-Controlled Iterative Pyramid Network for Deformable Medical Image Registration,” 
+- H. Wu, D. Wang, T. Ma, P. Zhao, Y. Xiao, Z. Wu, X.-C. Wang, C. Li, **X. Wu†**, Y. Zhou†, “TCIP: Threshold-Controlled Iterative Pyramid Network for Deformable Medical Image Registration,” *arXiv* 2510.07666, 2025. [paper](https://arxiv.org/pdf/2510.07666)
 
 
 💼 Services
