@@ -48,7 +48,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">KDD 2025</span> **X. Wu**, D. Wang, C. Wu, L. Wen, C, Miao, Y. Xiao, Y. Zhou, “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models.” [paper](https://arxiv.org/abs/2505.12627) [code](https://github.com/wuuu110/Hercules)
+">KDD 2025</span> **X. Wu**, D. Wang, C. Wu, L. Wen, C. Miao, Y. Xiao, Y. Zhou, “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models.” [paper](https://arxiv.org/abs/2505.12627) [code](https://github.com/wuuu110/Hercules)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
