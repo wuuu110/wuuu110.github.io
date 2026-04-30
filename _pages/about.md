@@ -48,6 +48,14 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
+">ICML 2026</span> Z. Shang, X. Han, L. Wang, W. Du, P. Zhao, Y. Li, Y. Xiao†, **X. Wu†**, Y. Zhou†, “SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models.” [paper]() [code]()
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
 ">KDD 2025</span> **X. Wu**, D. Wang, C. Wu, L. Wen, C. Miao, Y. Xiao, Y. Zhou, “Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models.” [paper](https://arxiv.org/abs/2505.12627) [code](https://github.com/wuuu110/Hercules)
 - <span style="
   background-color: #e0e0e0;
@@ -57,6 +65,7 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">KDD 2025</span> W. Song★, **X. Wu★**, B. Yang, Y. Zhou, Y. Liang, H. Ge, H. P. Lee, C. Wu, “Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution.” [paper](https://arxiv.org/abs/2506.01231) [code](https://github.com/wuuu110/UGAS-GC)
+
 
 ## Journal Articles
 - <span style="
@@ -110,7 +119,7 @@ _Sep. 2016 – Jul. 2020_
 
 **Conference Reviewer**
 
-• AAAI'26, ICLR'26, WWW'26, IJCAI'26, ICML'26, KDD'26
+• AAAI'26, ICLR'26, WWW'26, IJCAI'26, ICML'26, KDD'26, MM'26, NeurIPS'26
 
 • ICLR'25
 
