@@ -110,7 +110,7 @@ _Sep. 2016 – Jul. 2020_
 ">PR</span> Y. Xiao, D. Wang, R. Cao, **X. Wu†**, B. Li, Y. Zhou†, “GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales,” 2025. [paper](https://arxiv.org/pdf/2506.06634) [code](https://github.com/xybFight/GELD)
 ## Pre-prints
 
-- **X.Wu**, J. Chen, Y. Li, L. Wen, C. Wu, Y. Li, Y. Xiao, C. Miao, Y. Zhou, D. Wang, “WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems,” *arXiv* , 2026. [paper]()
+- **X.Wu**, J. Chen, Y. Li, L. Wen, C. Wu, Y. Li, Y. Xiao, C. Miao, Y. Zhou, D. Wang, “WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems,” *arXiv* , 2026. [paper](https://arxiv.org/abs/2605.22876)
 - **X. Wu**, D. Wang, C. Wu, K. Qi, C. Miao, Y. Xiao, J. Zhang, Y. Zhou, “Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem,” *arXiv* 2507.21386, 2025. [paper](https://arxiv.org/abs/2507.21386)
 - **X. Wu**, D. Wang, L. Wen, Y. Xiao, C. Wu, Y. Wu, C. Yu, D. L. Maskell, Y. Zhou, “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” *arXiv* 2406.00415, 2024. [paper](https://arxiv.org/abs/2406.00415)
 - **X. Wu★**, H. Wu★, T. Ma, P. Zhao, Y. Xiao, Z. Wu, X.-C. Wang, Y. Zhou, D. Wang, “iPEAR: Iterative Pyramid Estimation with Attention and Residuals for Deformable Medical Image Registration,” *arXiv* 2510.07666, 2025. [paper](https://arxiv.org/pdf/2510.07666)
