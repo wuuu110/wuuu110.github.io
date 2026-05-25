@@ -91,7 +91,15 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">Electronics</span> Z. Cao★, **X. Wu★**, C. Wu, S. Jiao, Y. Xiao, Y. Zhang, Y. Zhou, “KeypointNet: An Efficient Deep Learning Model with Multi-View Recognition Capability for Sitting Posture Recognition,” 2025. [paper](https://www.mdpi.com/2079-9292/14/4/718) 
+">Electronics</span> Z. Cao★, **X. Wu★**, C. Wu, S. Jiao, Y. Xiao, Y. Zhang, Y. Zhou, “KeypointNet: An Efficient Deep Learning Model with Multi-View Recognition Capability for Sitting Posture Recognition,” 2025. [paper](https://www.mdpi.com/2079-9292/14/4/718)
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">PR</span> Y. Xiao, D. Wang, R. Cao, **X. Wu†**, B. Li, Y. Zhou†, “GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales,” 2026. [paper](https://arxiv.org/pdf/2506.06634) [code](https://github.com/xybFight/GELD)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -100,14 +108,8 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">NEUNET</span> Y. Xiao, D. Wang, **X. Wu†**, Y. Wu, B. Li, W. Du, L. Wang, Y. Zhou†, “Improving Generalization of Neural Vehicle Routing Problem Solvers Through theLens of Model Architecture,” 2025. [paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X) [code](https://github.com/xybFight/VRP-Generalization)
-- <span style="
-  background-color: #e0e0e0;
-  color: #333;
-  padding: 2px 6px;
-  border-radius: 4px;
-  font-size: 0.9em;
-  font-weight: 600;
-">PR</span> Y. Xiao, D. Wang, R. Cao, **X. Wu†**, B. Li, Y. Zhou†, “GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales,” 2025. [paper](https://arxiv.org/pdf/2506.06634) [code](https://github.com/xybFight/GELD)
+
+
 ## Pre-prints
 
 - **X.Wu**, J. Chen, Y. Li, L. Wen, C. Wu, Y. Li, Y. Xiao, C. Miao, Y. Zhou, D. Wang, “WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems,” *arXiv* , 2026. [paper](https://arxiv.org/abs/2605.22876)
