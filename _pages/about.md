@@ -76,7 +76,7 @@ _Sep. 2016 – Jul. 2020_
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">ESWA</span> **X. Wu**, D. Wang, C. Wu, K. Qi, C. Miao, Y. Xiao, J. Zhang, Y. Zhou, “Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem,” *arXiv* 2507.21386, 2025. [paper](https://arxiv.org/abs/2507.21386) [code](https://github.com/wuuu110/echo)
+">ESWA</span> **X. Wu**, D. Wang, C. Wu, K. Qi, C. Miao, Y. Xiao, J. Zhang, Y. Zhou, “Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem,” 2026. [paper](https://arxiv.org/abs/2507.21386) [code](https://github.com/wuuu110/echo)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
