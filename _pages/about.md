@@ -131,9 +131,8 @@ _Sep. 2016 – Jul. 2020_
 
 **Conference Reviewer**
 
-• AAAI'26, ICLR'26, WWW'26, IJCAI'26, ICML'26, KDD'26, MM'26, NeurIPS'26
+• ICML, NeurIPS, ICLR, KDD, AAAI, WWW, MM, IJCAI
 
-• ICLR'25
 
 **Journal Reviewer**
 
