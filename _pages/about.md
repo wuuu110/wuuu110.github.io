@@ -136,8 +136,4 @@ _Sep. 2016 – Jul. 2020_
 
 **Journal Reviewer**
 
-• IEEE TNNLS
-
-• IEEE TEVC
-
-• IEEE TII
+• IEEE TNNLS, IEEE TEVC, IEEE TII
