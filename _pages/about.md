@@ -77,7 +77,7 @@ _Sep. 2016 – Jul. 2020_
   font-size: 0.9em;
   font-weight: 600;
 ">TNNLS</span>
-**X. Wu**, D. Wang, L. Wen, Y. Xiao, C. Wu, Y. Wu, C. Yu, D. L. Maskell, Y. Zhou, “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” 2026. [paper](https://arxiv.org/abs/2406.00415)
+**X. Wu**, D. Wang, L. Wen, Y. Xiao, C. Wu, Y. Wu, C. Yu, D. L. Maskell, Y. Zhou, “Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives,” 2026. [paper](https://ieeexplore.ieee.org/document/11615127/)
 
 - <span style="
   background-color: #e0e0e0;
