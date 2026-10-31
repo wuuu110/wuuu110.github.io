@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently pursuing my Ph.D. degree in the College of Computer Science and Technology at Jilin University (JLU), under the supervision of Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm). Previously, I was a visiting Ph.D. student at Nanyang Technological University (NTU), working with Senior Research Fellow [Di Wang](https://www.diwang.org/), with support from the China Scholarship Council (CSC). I received my B.Sc. from JLU in 2020, advised by Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). 
+Hi, I am currently a "Dingxin Scholar" Postdoctoral Researcher at the College of Computer Science and Technology at Jilin University (JLU). I received my Ph.D. and B.Sc. degrees from JLU, under the supervision of Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm) and Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). During my Ph.D., I was a visiting Ph.D. student at Nanyang Technological University (NTU), where I worked with Senior Research Fellow [Di Wang](https://www.diwang.org/), supported by the China Scholarship Council (CSC).
 
 
 I have published over ten papers in top-tier conferences and journals, including ICML, KDD, TNNLS, TEVC, etc. You can find a full list of my [publications](https://scholar.google.com.hk/citations?user=euFhn8cAAAAJ&hl). Please feel free to contact me if you are interested in collaborating! 🤝🤝🤝
@@ -23,7 +23,7 @@ My research interests lie in the emerging field of Learning to Optimize (L2Opt),
 
 ### Jilin University, China  
 **Ph.D. in the College of Computer Science and Technology**  
-_Sep. 2022 – Present_  
+_Sep. 2022 – Sep. 2026_  
 
 ### Nanyang Technological University, Singapore  
 **Visiting Ph.D. Student in the College of Computing and Data Science**  
