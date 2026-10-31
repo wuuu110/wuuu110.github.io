@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a "Dingxin Scholar" Postdoctoral Researcher at the College of Computer Science and Technology, Jilin University (JLU). I received my Ph.D. and B.Sc. degrees from JLU in 2020 and 2026, respectively, under the supervision of Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm) and Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). During my Ph.D., I was a visiting Ph.D. student at Nanyang Technological University, where I worked with Senior Research Fellow [Di Wang](https://www.diwang.org/), supported by the China Scholarship Council.
+Hi, I am currently a "Dingxin Scholar" Postdoctoral Researcher at the College of Computer Science and Technology, Jilin University (JLU). I received my Ph.D. and B.Sc. degrees from JLU in 2020 and 2026, respectively, under the supervision of Prof. [You Zhou](https://ccst.jlu.edu.cn/info/1367/19089.htm) and Prof. [Chunguo Wu](https://ccst.jlu.edu.cn/info/1367/19100.htm). During my Ph.D., I was a visiting student at Nanyang Technological University, where I worked with Senior Research Fellow [Di Wang](https://www.diwang.org/), supported by the China Scholarship Council.
 
 
 I have published over ten papers in top-tier conferences and journals, including ICML, KDD, TNNLS, TEVC, etc. You can find a full list of my [publications](https://scholar.google.com.hk/citations?user=euFhn8cAAAAJ&hl). Please feel free to contact me if you are interested in collaborating! 🤝🤝🤝
