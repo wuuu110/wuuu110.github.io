@@ -132,7 +132,6 @@ _Sep. 2016 – Jul. 2020_
 ## Pre-prints
 
 - **X.Wu**, J. Chen, Y. Li, L. Wen, C. Wu, Y. Li, Y. Xiao, C. Miao, Y. Zhou, D. Wang, “WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems,” *arXiv* 2605.22876, 2026. [paper](https://arxiv.org/abs/2605.22876) [code](https://github.com/wuuu110/WeCon)
-- **X. Wu★**, H. Wu★, T. Ma, P. Zhao, Y. Xiao, Z. Wu, X.-C. Wang, Y. Zhou, D. Wang, “iPEAR: Iterative Pyramid Estimation with Attention and Residuals for Deformable Medical Image Registration,” *arXiv* 2510.07666, 2025. [paper](https://arxiv.org/pdf/2510.07666) [code](https://github.com/wuuu110/iPEAR)
 
 
 💼 Services
